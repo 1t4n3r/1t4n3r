@@ -1,21 +1,21 @@
-#Hi guys! 👋
+# Hi guys! 👋
 
-I'm ItanerGT, my name is Ivan.
+### I'm ItanerGT, my name is Ivan.
 
-Gender: male
+### Gender: male
 
-Birthday: May 20
+### Birthday: May 20
 
-I'm:
+### I'm:
 
-Java developer
-C# developer
-Cheats developer
-Minecraft Mod Developer
+### Java developer
+### C# developer
+### Cheats developer
+### Minecraft Mod Developer
 
-About me:
+### About me:
 
-I do not consider myself a programmer, because my knowledge is too small, but I try to develop in order to make better projects. My name is listed above, I don't want to reveal my age. My first Minecraft mod is IndustrialLevel.
+### I do not consider myself a programmer, because my knowledge is too small, but I try to develop in order to make better projects. My name is listed above, I don't want to reveal my age. My first Minecraft mod is IndustrialLevel.
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itanergt&theme=dark&show_icons=true)
 
