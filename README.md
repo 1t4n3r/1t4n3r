@@ -10,11 +10,11 @@ I'm:
 
 - Java developer
 
-C# developer
+- C# developer
 
-Cheats developer
+- Cheats developer
 
-Minecraft Mod Developer
+- Minecraft Mod Developer
 
 About me:
 
