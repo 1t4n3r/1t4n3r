@@ -8,7 +8,7 @@ Birthday: May 20
 
 I'm:
 
-Java developer
+- Java developer
 
 C# developer
 
