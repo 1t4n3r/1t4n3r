@@ -22,4 +22,4 @@ I do not consider myself a programmer, because my knowledge is too small, but I 
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itanergt&theme=dark&show_icons=true)
 
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itanergt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itanergt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
