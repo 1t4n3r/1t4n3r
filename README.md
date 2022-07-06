@@ -12,8 +12,6 @@ I'm:
 
 - C# developer
 
-- Cheats developer
-
 - Minecraft Mod Developer
 
 About me:
